@@ -140,3 +140,10 @@ h2 {
 .form-control {
     background-color: #F1EDEF;
 }
+
+.tamanho {
+    width: 400px;
+    margin-right: 200px;
+    border-radius: 50px;
+    border: 10px solid var(--laranja-claro);
+}
