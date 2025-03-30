@@ -175,4 +175,10 @@ h2 {
 
 .apresenta-lista {
    display: none;
+   opacity: 0;
+}
+
+.menu-aberto .apresenta-lista{
+    display: flex;
+    opacity: 1;
 }

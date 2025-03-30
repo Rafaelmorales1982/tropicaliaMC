@@ -15,3 +15,14 @@ document.addEventListener('DOMContentLoaded', function () {
     })
 
 })
+
+
+
+//Exibir botão e ocultar botão
+
+const botaoAcessibilidade = document.getElementById('botao-acessibilidade');
+const opcoesAcessibilidade = document.getElementById('opcoes-acessibilidade');
+
+botaoAcessibilidade.addEventListener('click', () => {
+    opcoesAcessibilidade.classList.toggle('apresenta-lista');//coloca essa classe no html utilizando javascript para exibir botão
+});
