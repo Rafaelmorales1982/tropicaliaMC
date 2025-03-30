@@ -186,8 +186,8 @@ h2 {
     opacity: 1;
 }
 
-.menu-acessibilidade button {
+.menu-acessibilidade .opcoes-acessibilidade button {
 
-    margin-left: 50px;
+    margin-right: 50px;
     margin-bottom: 10px;
 }
