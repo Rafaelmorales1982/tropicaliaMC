@@ -166,6 +166,8 @@ h2 {
     margin-top: 10px;
     display: flex;
     flex-direction: column;
+    transition: all 0.3s ease-in-out; /* Adiciona uma transição */
+    opacity: 1; /* Garante que esteja totalmente visível quando exibido */
 
 }
 
