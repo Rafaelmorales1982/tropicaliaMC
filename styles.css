@@ -173,7 +173,7 @@ h2 {
 
 .opcoes-acessibilidade {
     margin-bottom: 5px;
-    margin: 10px;
+   
 }
 
 .apresenta-lista {
@@ -184,4 +184,8 @@ h2 {
 .menu-aberto .apresenta-lista{
     display: flex;
     opacity: 1;
+}
+
+.menu-acessibilidade {
+    margin: 20px;
 }
