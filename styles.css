@@ -187,5 +187,7 @@ h2 {
 }
 
 .menu-acessibilidade button {
-    margin: 20px;
+
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
