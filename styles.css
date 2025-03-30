@@ -148,7 +148,7 @@ h2 {
     border: 10px solid var(--laranja-claro);
 }
 
-.menu-acessibilidade {
+.menu_acessibilidade {
     position: fixed;
     top: 2rem;
     right: 20px;
