@@ -162,7 +162,7 @@ h2 {
 
 .opcoes-acessibilidade {
     margin-top: 10px;
- 
+    display: block;
     flex-direction: column;
 }
 
@@ -171,5 +171,5 @@ h2 {
 }
 
 .apresenta-lista {
-    display: block;
+   
 }
