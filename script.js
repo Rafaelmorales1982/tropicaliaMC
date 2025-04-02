@@ -23,6 +23,8 @@ const opcoesAcessibilidade = document.getElementById('opcoes-acessibilidade');
 
 botaoAcessibilidade.addEventListener('click', () => {
     opcoesAcessibilidade.classList.toggle('apresenta-lista');//coloca essa classe no html utilizando javascript para exibir botão
+    opcoesAcessibilidade.classList.toggle('rotacao-botao');//coloca essa classe no html utilizando javascript para exibir botão
+
 });
 
 })
